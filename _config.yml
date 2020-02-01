@@ -52,6 +52,5 @@ plainwhite:
 # theme: plainwhite
 
 plugins:
-  - chapter2
   - jekyll-seo-tag
 #  - jekyll-feed
